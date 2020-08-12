@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+R4Cnn+1XkFIDDLgDJxYSnhKVM1dGUIzVnBxHskN4TD6okx6rpDP63SAMrnu4i5cTGoUxngL0T5K4zWe5cXUMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexandre.novaes\\source\\repos\\cliente\\src\\Cliente.Domain\\Cliente.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexandre.novaes\\.nuget\\packages\\fluentvalidation\\9.1.1\\fluentvalidation.9.1.1.nupkg.sha512",
+    "C:\\Users\\alexandre.novaes\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliente.Domain\bin\Debug\netcoreapp3.1\Cliente.Domain.deps.json
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliente.Domain\bin\Debug\netcoreapp3.1\Cliente.Domain.dll
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliente.Domain\obj\Debug\netcoreapp3.1\Cliente.Domain.AssemblyInfoInputs.cache
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliente.Domain\obj\Debug\netcoreapp3.1\Cliente.Domain.AssemblyInfo.cs
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliente.Domain\bin\Debug\netcoreapp3.1\Cliente.Domain.pdb
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliente.Domain\obj\Debug\netcoreapp3.1\Cliente.Domain.dll
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliente.Domain\obj\Debug\netcoreapp3.1\Cliente.Domain.pdb
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliente.Domain\obj\Debug\netcoreapp3.1\Cliente.Domain.csprojAssemblyReference.cache
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliente.Domain\obj\Debug\netcoreapp3.1\Cliente.Domain.csproj.CoreCompileInputs.cache

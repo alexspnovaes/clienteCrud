@@ -1,0 +1,15 @@
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliete.Domain.Infra\bin\Debug\netcoreapp3.1\Cliente.Domain.dll
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliete.Domain.Infra\obj\Debug\netcoreapp3.1\Cliente.Domain.Infra.csprojAssemblyReference.cache
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliete.Domain.Infra\obj\Debug\netcoreapp3.1\Cliente.Domain.Infra.AssemblyInfoInputs.cache
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliete.Domain.Infra\obj\Debug\netcoreapp3.1\Cliente.Domain.Infra.AssemblyInfo.cs
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliete.Domain.Infra\bin\Debug\netcoreapp3.1\Cliente.Domain.Infra.deps.json
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliete.Domain.Infra\bin\Debug\netcoreapp3.1\Cliente.Domain.Infra.dll
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliete.Domain.Infra\bin\Debug\netcoreapp3.1\Cliente.Domain.Infra.pdb
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliete.Domain.Infra\bin\Debug\netcoreapp3.1\Cliente.Domain.pdb
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliete.Domain.Infra\obj\Debug\netcoreapp3.1\Cliente.Domain.Infra.csproj.CopyComplete
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliete.Domain.Infra\obj\Debug\netcoreapp3.1\Cliente.Domain.Infra.dll
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliete.Domain.Infra\obj\Debug\netcoreapp3.1\Cliente.Domain.Infra.pdb
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliete.Domain.Infra\bin\Debug\netcoreapp3.1\Cliente.Domain.Infra.runtimeconfig.json
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliete.Domain.Infra\bin\Debug\netcoreapp3.1\Cliente.Domain.Infra.runtimeconfig.dev.json
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliete.Domain.Infra\obj\Debug\netcoreapp3.1\Cliente.Domain.Infra.genruntimeconfig.cache
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliete.Domain.Infra\obj\Debug\netcoreapp3.1\Cliente.Domain.Infra.csproj.CoreCompileInputs.cache

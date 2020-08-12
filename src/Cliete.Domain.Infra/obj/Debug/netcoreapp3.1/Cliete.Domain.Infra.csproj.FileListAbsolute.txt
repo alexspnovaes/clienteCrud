@@ -1,0 +1,4 @@
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliete.Domain.Infra\bin\Debug\netcoreapp3.1\Cliente.Domain.dll
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliete.Domain.Infra\obj\Debug\netcoreapp3.1\Cliete.Domain.Infra.csprojAssemblyReference.cache
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliete.Domain.Infra\obj\Debug\netcoreapp3.1\Cliete.Domain.Infra.AssemblyInfoInputs.cache
+C:\Users\alexandre.novaes\source\repos\cliente\src\Cliete.Domain.Infra\obj\Debug\netcoreapp3.1\Cliete.Domain.Infra.AssemblyInfo.cs
